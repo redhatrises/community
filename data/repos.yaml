@@ -167,7 +167,7 @@ list:
 - name: MISP-tools
   html_url: https://github.com/CrowdStrike/MISP-tools
   forks_count: 0
-  stargazers_count: 0
+  stargazers_count: 1
   description: Integrate CrowdStrike with your instance of MISP
   homepage: ''
   language: Python
@@ -182,7 +182,7 @@ list:
   - misp
   - pymisp
   created: March 17, 2022
-  updated: April 29, 2022
+  updated: May 05, 2022
 - name: PartyTicketDecryptor
   html_url: https://github.com/CrowdStrike/PartyTicketDecryptor
   forks_count: 0
@@ -432,13 +432,13 @@ list:
 - name: easyrulesgo
   html_url: https://github.com/CrowdStrike/easyrulesgo
   forks_count: 8
-  stargazers_count: 45
+  stargazers_count: 46
   description: A port of Easy Rules in Go
   homepage: ''
   language: Go
   tags: []
   created: May 16, 2017
-  updated: April 24, 2022
+  updated: May 05, 2022
 - name: ember-aria
   html_url: https://github.com/CrowdStrike/ember-aria
   forks_count: 1
@@ -527,7 +527,7 @@ list:
   updated: November 08, 2021
 - name: falcon-helm
   html_url: https://github.com/CrowdStrike/falcon-helm
-  forks_count: 21
+  forks_count: 22
   stargazers_count: 29
   description: Helm operator and charts for running CrowdStrike Falcon with Kubernetes
   homepage: https://artifacthub.io/packages/helm/falcon-helm/falcon-sensor
@@ -616,7 +616,7 @@ list:
 - name: falconpy
   html_url: https://github.com/CrowdStrike/falconpy
   forks_count: 44
-  stargazers_count: 120
+  stargazers_count: 121
   description: The CrowdStrike Falcon SDK for Python
   homepage: https://www.falconpy.io
   language: Python
@@ -642,7 +642,7 @@ list:
   - sdk
   - windows
   created: November 12, 2020
-  updated: April 30, 2022
+  updated: May 05, 2022
 - name: faltest
   html_url: https://github.com/CrowdStrike/faltest
   forks_count: 9
@@ -692,7 +692,7 @@ list:
   language: ''
   tags: []
   created: May 18, 2021
-  updated: February 07, 2022
+  updated: May 05, 2022
 - name: image-scan-example
   html_url: https://github.com/CrowdStrike/image-scan-example
   forks_count: 8
@@ -824,7 +824,7 @@ list:
 - name: psfalcon
   html_url: https://github.com/CrowdStrike/psfalcon
   forks_count: 30
-  stargazers_count: 148
+  stargazers_count: 149
   description: PowerShell for CrowdStrike's OAuth2 APIs
   homepage: ''
   language: PowerShell
@@ -837,7 +837,7 @@ list:
   - powershell
   - powershell-module
   created: September 25, 2020
-  updated: April 22, 2022
+  updated: May 05, 2022
 - name: puppet-falcon
   html_url: https://github.com/CrowdStrike/puppet-falcon
   forks_count: 2
